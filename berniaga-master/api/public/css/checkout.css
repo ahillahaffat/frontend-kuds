@@ -1,0 +1,141 @@
+.container {
+  max-width: 1200px; /* Atur lebar sesuai kebutuhan */
+  margin: 0 auto;
+}
+
+.transaction-list {
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.filter-item {
+  padding: 10px 15px;
+  background-color: #e1e1e1;
+  color: #333;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.filter-item.active {
+  background-color: #333;
+  color: #fff;
+}
+
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-form label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.search-form input[type="text"],
+.search-form input[type="date"],
+.search-form button {
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.search-form input[type="text"],
+.search-form input[type="date"] {
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.search-form input[type="text"]:focus,
+.search-form input[type="date"]:focus {
+  outline: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.search-form button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+/* Menyamakan tinggi button dan input */
+.search-form button,
+.search-form input[type="text"],
+.search-form input[type="date"] {
+  height: 40px;
+}
+
+/* Menyamakan padding-top dan padding-bottom button dan input */
+.search-form button,
+.search-form input[type="text"],
+.search-form input[type="date"] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.search-form button:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form-group {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.search-form button {
+  margin-left: 10px;
+  display: flexbox;
+}
+
+#reset-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.transaction-table {
+  display: flex;
+  justify-content: center;
+}
+
+.transaction-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transaction-table th,
+.transaction-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.transaction-table th {
+  background-color: #333;
+  color: #fff;
+}
+
+.transaction-table tbody td[colspan="4"] {
+  text-align: center;
+}
