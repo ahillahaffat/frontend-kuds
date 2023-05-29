@@ -33,4 +33,12 @@ class DashboardController extends Controller
     {
         return view('checkout');
     }
+    public function login()
+    {
+        return view('login');
+    }
+    public function register()
+    {
+        return view('register');
+    }
 }
