@@ -1,0 +1,116 @@
+  
+  /* Styling for the form container */
+  .checkout-area {
+    background-color: #f8f8f8;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  /* Styling for the form fields */
+  .billing-info input[type="text"],
+  .nice-select-style-3 {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+
+  /* Styling for the form fields on focus */
+  .billing-info input[type="text"]:focus,
+  .nice-select-style-3:focus {
+    outline: none;
+    border-color: #5c9cec;
+    box-shadow: 0 2px 4px rgba(92, 156, 236, 0.5);
+  }
+
+  /* Styling for the checkboxes */
+  .checkout-save-info input[type="checkbox"] {
+    display: none;
+  }
+
+  .checkout-save-info input[type="checkbox"] + span {
+    font-size: 14px;
+    color: #555;
+    cursor: pointer;
+  }
+
+  .checkout-save-info input[type="checkbox"] + span:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+
+  .checkout-save-info input[type="checkbox"]:checked + span:before {
+    background-color: #5c9cec;
+    border-color: #5c9cec;
+  }
+
+  /* Styling for the payment methods */
+  .sin-payment {
+    margin-bottom: 20px;
+  }
+
+  .payment-box {
+    display: none;
+    padding-top: 20px;
+  }
+
+  .payment-method input[type="radio"] {
+    display: none;
+  }
+
+  .payment-method input[type="radio"] + label {
+    font-size: 14px;
+    color: #555;
+    cursor: pointer;
+  }
+
+  .payment-method input[type="radio"] + label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+
+  .payment-method input[type="radio"]:checked + label:before {
+    background-color: #5c9cec;
+    border-color: #5c9cec;
+  }
+
+  .payment-method input[type="radio"]:checked ~ .payment-box {
+    display: block;
+  }
+
+  /* Styling for the back and continue links */
+  .back-continue-wrap {
+    margin-top: 20px;
+  }
+
+  .back-continue-wrap a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color: #5c9cec;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .back-continue-wrap a:hover {
+    background-color: #428bca;
+  }

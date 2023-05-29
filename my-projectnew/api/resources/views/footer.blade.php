@@ -2,8 +2,8 @@
 @extends('master')
 
 @section('footer')
-<footer class="footer-area bg-white pt-100">
-        <div class="footer-top pb-30">
+<footer class="footer-area bg-gray pt-130">
+        <div class="footer-top pb-120">
           <div class="container">
             <div class="row">
               <div class="col-lg-3 col-md-6 col-sm-6">
@@ -23,12 +23,24 @@
                 <div class="footer-widget mb-40">
                   <h3 class="footer-title">Information</h3>
                   <div class="footer-info-list">
-                    <ul>
-                      <li><a href="about-us.html">About Us</a></li>
-                      <li><a href="#">FAQ</a></li>
-                      <li><a href="#">Help</a></li>
-                      <li><a href="#">Shipping & Return</a></li>
-                    </ul>
+                    
+       <!-- my account -->
+         <ul>
+
+          <li>
+            <a href="profile">My Account</a>
+          </li>
+          <li><a href="checkout">Check Out</a></li>
+          <li><a href="cart.html">Shopping Cart</a></li>
+          <li><a href="wishlist.html">Wishlist</a></li>
+          <li>
+            <a href="order"
+              >Order Tracking</a
+            >
+          </li>
+
+          </ul>
+          <!-- my account end -->
                   </div>
                 </div>
               </div>
@@ -243,5 +255,7 @@
           </div>
         </div>
       </div>
+      <!-- Modal end -->
+    </div>
 
       @endsection

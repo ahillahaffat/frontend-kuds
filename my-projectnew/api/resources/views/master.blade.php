@@ -8,7 +8,7 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/images/berniaga.png"
+      href="/images/faviconn.png"
     />
 <link rel="stylesheet" href="{{ asset('/css/vendor/bootstrap.min.css') }}" />
 <link rel="stylesheet" href="{{ asset('/css/vendor/vandella.css') }}" />

@@ -40,6 +40,12 @@ Route::get('/register', function () {
 Route::get('/shop', function () {
     return view('shop');
 });
+Route::get('profile', function () {
+    return view('profile');
+});
+Route::get('checkout', function () {
+    return view('checkout');
+});
 
 Route::post('/upload-photo', 'User\UserController@uploadPhoto');
 Route::post('/update-user-photo', 'User\UserController@updateUserPhoto');

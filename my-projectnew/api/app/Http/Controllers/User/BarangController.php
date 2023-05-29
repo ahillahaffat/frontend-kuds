@@ -7,6 +7,7 @@ use App\Models\User;
 use App\Models\ProdukModel;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response as HttpFoundationResponse;
+use Illuminate\Support\Facades\Storage;
 
 class BarangController extends Controller
 {
@@ -31,7 +32,7 @@ class BarangController extends Controller
                     "id_etalase" => $item->id_etalase,
                     "id_kategori" => $item->id_kategori,
                     "created_at" => $item->created_at,
-                    "updated_at" => $item->update_at,
+                    "updated_at" => $item->updated_at, // Perbaikan penulisan 'updated_at'
                 ];
             });
         } else {
@@ -57,5 +58,3 @@ class BarangController extends Controller
         return response()->json($response, HttpFoundationResponse::HTTP_OK);
     }
 }
-
-?>
