@@ -12,27 +12,27 @@
       <div class="col">
         <div class="slider-area mr-15">
           <div class="slider-active-5 dot-style-6 dot-style-6-position-1">
-            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/turntable.jpg)">
+            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/kuds-01.png)">
               <div class="container">
                 <div class="slider-content-12 slider-animated-1">
-                  <h1 class="animated">Build <br /><span class="bold">E-commerce</span> <br /><span class="blue">Mega</span> Store</h1>
-                  <p class="animated">Seamlessly predominate enterprise metrics without performance based process</p>
+                  <h1 class="animated">Koperasi <br /><span class="bold">Urun Dana</span> <br /><span class="blue"> Sejahtera</span></h1>
+                  <p class="animated">Datang dan jadilah agen perubahan di masa depan!</p>
                 </div>
               </div>
             </div>
-            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/fashion-store.jpg)">
+            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/kuds-02.png)">
               <div class="container">
                 <div class="slider-content-12 slider-animated-1">
-                  <h1 class="animated">Build <br /><span class="bold">E-commerce</span> <br /><span class="blue">Mega</span> Store</h1>
-                  <p class="animated">Seamlessly predominate enterprise metrics without performance based process</p>
+                  <h1 class="animated">Koperasi <br /><span class="bold">Urun Dana</span> <br /><span class="blue">Sejahtera</span></h1>
+                  <p class="animated">Datang dan jadilah agen perubahan di masa depan!</p>
                 </div>
               </div>
             </div>
-            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/turntable.jpg)">
+            <div class="single-slider slider-height-13 custom-d-flex custom-align-item-center bg-img" style="background-image: url(/images/slider/kuds-01.png)">
               <div class="container">
                 <div class="slider-content-12 slider-animated-1">
-                  <h1 class="animated">Build <br /><span class="bold">E-commerce</span> <br /><span class="blue">Mega</span> Store</h1>
-                  <p class="animated">Seamlessly predominate enterprise metrics without performance based process</p>
+                  <h1 class="animated">Koperasi <br /><span class="bold">Urun Dana</span> <br /><span class="blue">Sejahtera</span> </h1>
+                  <p class="animated">Datang dan jadilah agen perubahan di masa depan!</p>
                 </div>
               </div>
             </div>
@@ -213,8 +213,8 @@
             <a href="#product-2" data-toggle="tab"> Gadget </a>
             <a href="#product-3" data-toggle="tab"> Fashion </a>
             <a href="#product-4" data-toggle="tab"> Furniture </a>
-            <a href="#product-5" data-toggle="tab"> Books </a>
-            <a href="#product-6" data-toggle="tab"> Sports </a>
+            <a href="#product-5" data-toggle="tab"> Food Needs </a>
+            <a href="#product-6" data-toggle="tab"> Property </a>
           </div>
           <div class="tab-content jump">
             <div id="product-1" class="tab-pane active">
@@ -224,26 +224,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-140.jpg"
+                          src="/images/product/docmart.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Dr. Martens</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Dr Martens</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -270,26 +270,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-141.jpg"
+                          src="/images/product/rolex.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Rolex GMT-Master II</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Rolex GMT-Master II</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -316,26 +316,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-142.jpg"
+                          src="/images/product/sarungbhs.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Sarung BHS</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Sarung BHS</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -362,26 +362,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-143.jpg"
+                          src="/images/product/batik.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Batik Keris</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Batik Keris</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -408,26 +408,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-144.jpg"
+                          src="/images/product/bag.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Leather Bag</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Leather Bag</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -454,26 +454,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-145.jpg"
+                          src="/images/product/telur.jpg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Egg</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Egg</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -500,26 +500,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-146.jpg"
+                          src="/images/product/kursi.jpg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Wood Chair</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Wood Chair</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -546,26 +546,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-147.jpg"
+                          src="/images/product/Daging-Ayam.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Daging Ayam Segar</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Daging Ayam Segar</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -592,26 +592,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-148.jpg"
+                          src="/images/product/minyak.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Minyak Goreng</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Minyak Goreng</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -638,26 +638,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-149.jpg"
+                          src="/images/product/airmineral.png"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Air Mineral (Santri)</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Air Mineral (Santri)</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -684,26 +684,26 @@
                     <div class="product-img product-img-zoom mb-25">
                       <a href="product">
                         <img
-                          src="/images/product/product-150.jpg"
+                          src="/images/product/beras.jpeg"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="product-content">
-                      <h4><a href="product">Product Title</a></h4>
+                      <h4><a href="product">Beras</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
                       <div class="product-content">
                         <h4>
-                          <a href="product">Product Title</a>
+                          <a href="product">Beras</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -742,8 +742,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -752,8 +752,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -788,8 +788,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -798,8 +798,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -834,8 +834,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -844,8 +844,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -880,8 +880,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -890,8 +890,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -926,8 +926,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -936,8 +936,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -972,8 +972,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -982,8 +982,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1018,8 +1018,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1028,8 +1028,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1064,8 +1064,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1074,8 +1074,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1110,8 +1110,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1120,8 +1120,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1156,8 +1156,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1166,8 +1166,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1202,8 +1202,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1212,8 +1212,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1252,8 +1252,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1262,8 +1262,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1298,8 +1298,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1308,8 +1308,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1344,8 +1344,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1354,8 +1354,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1390,8 +1390,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1400,8 +1400,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1436,8 +1436,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1446,8 +1446,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1482,8 +1482,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1492,8 +1492,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1528,8 +1528,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1538,8 +1538,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1574,8 +1574,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1584,8 +1584,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1620,8 +1620,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1630,8 +1630,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1666,8 +1666,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1676,8 +1676,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1712,8 +1712,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1722,8 +1722,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1762,8 +1762,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1772,8 +1772,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1808,8 +1808,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1818,8 +1818,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1854,8 +1854,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1864,8 +1864,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1900,8 +1900,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1910,8 +1910,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1946,8 +1946,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -1956,8 +1956,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -1992,8 +1992,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2002,8 +2002,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2038,8 +2038,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2048,8 +2048,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2084,8 +2084,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2094,8 +2094,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2130,8 +2130,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2140,8 +2140,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2176,8 +2176,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2186,8 +2186,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2222,8 +2222,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2232,8 +2232,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2272,8 +2272,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2282,8 +2282,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2318,8 +2318,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2328,8 +2328,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2364,8 +2364,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2374,8 +2374,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2410,8 +2410,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2420,8 +2420,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2456,8 +2456,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2466,8 +2466,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2502,8 +2502,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2512,8 +2512,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2548,8 +2548,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2558,8 +2558,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2594,8 +2594,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2604,8 +2604,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2640,8 +2640,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2650,8 +2650,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2686,8 +2686,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2696,8 +2696,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2732,8 +2732,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2742,8 +2742,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2782,8 +2782,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2792,8 +2792,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2828,8 +2828,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2838,8 +2838,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2874,8 +2874,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2884,8 +2884,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2920,8 +2920,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2930,8 +2930,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -2966,8 +2966,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -2976,8 +2976,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3012,8 +3012,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3022,8 +3022,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3058,8 +3058,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3068,8 +3068,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3104,8 +3104,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3114,8 +3114,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3150,8 +3150,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3160,8 +3160,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3196,8 +3196,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3206,8 +3206,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
@@ -3242,8 +3242,8 @@
                     <div class="product-content">
                       <h4><a href="product">Product Title</a></h4>
                       <div class="product-price">
-                        <span>$ 124</span>
-                        <span class="old-price">$ 130</span>
+                        <span>Rp. 124</span>
+                        <span class="old-price">Rp. 130</span>
                       </div>
                     </div>
                     <div class="product-action-position-1 text-center">
@@ -3252,8 +3252,8 @@
                           <a href="product">Product Title</a>
                         </h4>
                         <div class="product-price">
-                          <span>$ 124</span>
-                          <span class="old-price">$ 130</span>
+                          <span>Rp. 124</span>
+                          <span class="old-price">Rp. 130</span>
                         </div>
                       </div>
                       <div class="product-action-wrap">
